@@ -1,6 +1,6 @@
-# 👋 Hi, I'm a Data Analyst
+# 👋 Hi, I'm Efe
 
-💡 I am a detail-oriented and results-driven Data Analyst passionate about transforming raw data into meaningful insights. I specialize in data cleaning, analysis, and visualization to support informed decision-making and solve real-world problems.
+I am a detail-oriented and results-driven Data Analyst passionate about transforming raw data into meaningful insights. I specialize in data cleaning, analysis, and visualization to support informed decision-making and solve real-world problems.
 
 ---
 
@@ -13,39 +13,39 @@
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 ###  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 
-### 📊 Data Visualization
+###  Data Visualization
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
 
 Matplotlib • Seaborn
 
-### 📂 Data Handling
+###  Data Handling
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
 Pandas • NumPy
 
-### 🗄️ Databases
+###  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### ⚙️ Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
 
@@ -53,9 +53,9 @@ Pandas • NumPy
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-📌 Explore my repositories to find:
+ Explore my repositories to find:
 
 * Exploratory Data Analysis (EDA)
 * Dashboard Development
@@ -63,7 +63,7 @@ Pandas • NumPy
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
